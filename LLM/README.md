@@ -11,3 +11,12 @@
 - Token Classification
 - Translation
 - Zero Shot Classification
+
+## Popular NLP Tools
+- Hugging face transformers
+- NLTK
+- SpaCy
+- Gensim
+- OpenAI
+- SparkNLP (John Snow Labs)
+- Langchain
