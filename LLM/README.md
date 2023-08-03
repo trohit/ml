@@ -16,6 +16,7 @@
 - Hugging face transformers
   - Hosts Models |datasets |Spaces
   - Key libs: datasets |transformers | evaluate
+  - Under the hood libs uses PyTorch | TensorFlow| Jax
 - NLTK
 - SpaCy
 - Gensim
