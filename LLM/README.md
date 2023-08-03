@@ -14,6 +14,8 @@
 
 ## Popular NLP Tools
 - Hugging face transformers
+  - Hosts Models |datasets |Spaces
+  - Key libs: datasets |transformers | evaluate
 - NLTK
 - SpaCy
 - Gensim
