@@ -1,7 +1,7 @@
 # LLM Large Language Model
 
 # What
-- its a large lang model trained on enourmous data
+- large lang model is a lang model trained on enourmous data
   - an avg human reads about 700 books in their lifetime : 1 book : 80k words : 110k tokens
   - ChatGPT trained on 10 mill books : trillions of tokens
 - Creates a statistical model based on probability
@@ -20,6 +20,12 @@
 
 # Why
 # How
+
+## NLP Definitions
+- token: basic building block: can be composed of letters, words or short phrases
+- sequence: sequential list of tokens
+- vocab: complete list of tokens
+
 ## Uses of NLP
 NLP Uses
 - Sentiment analysis: eg of seq-to-seq generation
