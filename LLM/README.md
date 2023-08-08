@@ -1,4 +1,7 @@
+Src: https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+
 # LLM Large Language Model
+
 
 # What
 - large lang model is a lang model trained on enourmous data
