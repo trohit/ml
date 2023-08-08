@@ -10,7 +10,12 @@
 - can reduce dev cost and reduce monotonous tasks
 ## History
 ![image](https://github.com/trohit/ml/assets/466385/c4018d1e-3ffc-4b70-a78c-2f40a036258a)
-- NLP superset of (Language Models which is a superset of (LLM) ) ) 
+- NLP superset of (Language Models which is a superset of (LLM) ) )
+- whata a lang model : computational model that takes a seq of things like tokens and predicts the most likely word
+	- types classification | generative
+ 	- classification: prediction is usually trying to uncover a masked word
+    	- generative : predict the best word to come next
+- large Lang models: when lang models grow from 10-50 mill params to billions of params   
 
 # Why
 # How
