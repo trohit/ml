@@ -1,4 +1,12 @@
 # LLM Large Language Model
+
+# What
+## History
+![image](https://github.com/trohit/ml/assets/466385/c4018d1e-3ffc-4b70-a78c-2f40a036258a)
+NLP superset of (Language Models which is a superset of (LLM) ) ) 
+
+# Why
+# How
 ## Uses
 - Conversational
 - Fill Mask
