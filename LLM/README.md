@@ -14,7 +14,22 @@
 
 # Why
 # How
+## Uses of NLP
+NLP Uses
+- Sentiment analysis
+- translation
+- FAQ answering like chatbots
+- Other usecases
+	- semantic similarity
+		- literature search | DB query | QA matching
+	- Summarization
+		- clinical decision support | news article sentiments | legal proceeding summary
+	- text classification
+		- cust review sentiments | genre , topic classification
+
 ## Uses
+
+
 - Conversational
 - Fill Mask
 - Question Answering
