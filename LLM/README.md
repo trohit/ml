@@ -6,6 +6,7 @@
   - ChatGPT trained on 10 mill books : trillions of tokens
 - Creates a statistical model based on probability
 - can generate songs, fill in the blanks, complete sentences, classify reviews as good | bad
+- describe pics, add captions to text
 - can reduce dev cost and reduce monotonous tasks
 ## History
 ![image](https://github.com/trohit/ml/assets/466385/c4018d1e-3ffc-4b70-a78c-2f40a036258a)
