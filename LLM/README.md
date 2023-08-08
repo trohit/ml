@@ -39,7 +39,9 @@ NLP Uses
 	- text classification
 		- cust review sentiments | genre , topic classification
   	- speech generation and recognition
-
+# Process
+- Tokenization: Transforming text into word pieces
+- 
 ## Uses
 
 
