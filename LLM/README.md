@@ -16,9 +16,9 @@
 # How
 ## Uses of NLP
 NLP Uses
-- Sentiment analysis
-- translation
-- FAQ answering like chatbots
+- Sentiment analysis: eg of seq-to-seq generation
+- translation : seq -to-non-seq prediction
+- FAQ answering like chatbots : seq-to-seq generation
 - Other usecases
 	- semantic similarity
 		- literature search | DB query | QA matching
