@@ -1,4 +1,4 @@
-Src: https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+- Src Playlist: [https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm | Src Playlist]
 
 # LLM Large Language Model
 
