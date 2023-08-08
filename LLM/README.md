@@ -16,6 +16,7 @@
  	- classification: prediction is usually trying to uncover a masked word
     	- generative : predict the best word to come next
 - large Lang models: when lang models grow from 10-50 mill params to billions of params   
+![image](https://github.com/trohit/ml/assets/466385/1a400969-e4e8-476b-bf7a-7bc7ad01eb8c)
 
 # Why
 # How
