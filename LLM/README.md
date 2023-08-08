@@ -5,6 +5,8 @@
   - an avg human reads about 700 books in their lifetime : 1 book : 80k words : 110k tokens
   - ChatGPT trained on 10 mill books : trillions of tokens
 - Creates a statistical model based on probability
+- can generate songs, fill in the blanks, complete sentences, classify reviews as good | bad
+- can reduce dev cost and reduce monotonous tasks
 ## History
 ![image](https://github.com/trohit/ml/assets/466385/c4018d1e-3ffc-4b70-a78c-2f40a036258a)
 - NLP superset of (Language Models which is a superset of (LLM) ) ) 
