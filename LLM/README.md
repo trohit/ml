@@ -26,6 +26,7 @@ NLP Uses
 		- clinical decision support | news article sentiments | legal proceeding summary
 	- text classification
 		- cust review sentiments | genre , topic classification
+  	- speech generation and recognition
 
 ## Uses
 
