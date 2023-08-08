@@ -27,6 +27,13 @@
 - Translation
 - Zero Shot Classification
 
+# Choosing the Right LLM
+![image](https://github.com/trohit/ml/assets/466385/5b482318-9789-43ca-b011-b58f4aae8896)
+- Model Quality
+- Serving Cost
+- Serving Latency
+- Customizability
+
 ## Popular NLP Tools
 - Hugging face transformers
   - Hosts Models |datasets |Spaces
