@@ -1,4 +1,5 @@
 - Src Playlist: [https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm | Src Playlist]
+- [https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS| DataBricks LLM playlist]
 
 # LLM Large Language Model
 
@@ -28,6 +29,14 @@
 - token: basic building block: can be composed of letters, words or short phrases
 - sequence: sequential list of tokens
 - vocab: complete list of tokens
+- embedding
+- hallucinations: a tendency to invent facts in moments of uncertainty
+  - https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
+  - https://towardsdatascience.com/llm-hallucinations-ec831dcd7786
+- agent
+- vector DB
+- temperature
+
 
 ## Uses of NLP
 NLP Uses
