@@ -26,6 +26,8 @@
 # How
 
 ## NLP Definitions
+![image](https://github.com/trohit/ml/assets/466385/26bd797f-a614-47dc-a3a1-57fa676417cd)
+
 - token: basic building block: can be composed of letters, words or short phrases
 - sequence: sequential list of tokens
 - vocab: complete list of tokens
