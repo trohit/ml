@@ -1,5 +1,6 @@
 - Src Playlist: [https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm | Src Playlist]
 - [https://www.youtube.com/playlist?list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS| DataBricks LLM playlist]
+- [https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production]
 
 # LLM Large Language Model
 
@@ -12,6 +13,7 @@
 - can generate songs, fill in the blanks, complete sentences, classify reviews as good | bad
 - describe pics, add captions to text
 - can reduce dev cost and reduce monotonous tasks
+- Examples of tools using NLP / LLM : DALL-E, Stable Diffusion, Midjourney
 ## History
 ![image](https://github.com/trohit/ml/assets/466385/c4018d1e-3ffc-4b70-a78c-2f40a036258a)
 - NLP superset of (Language Models which is a superset of (LLM) ) )
