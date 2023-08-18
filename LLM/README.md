@@ -33,7 +33,7 @@
 ![image](https://github.com/trohit/ml/assets/466385/26bd797f-a614-47dc-a3a1-57fa676417cd)
 
 - token: basic building block: can be composed of letters, words or short phrases
-  - OOV : Out-of-vocab : meaning the word is not part of a token seen by the LLM
+  - OOV : Out-of-vocab : meaning the word is not part of a token seen by the LLM. could also be due to mispelling
 - sequence: sequential list of tokens
 - vocab: complete list of tokens
 - embedding
@@ -43,6 +43,7 @@
 - agent
 - vector DB
 - temperature
+- prompt
 
 
 ## Uses of NLP
