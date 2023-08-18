@@ -9,7 +9,9 @@
 - large lang model is a lang model trained on enourmous data
   - an avg human reads about 700 books in their lifetime : 1 book : 80k words : 110k tokens
   - ChatGPT trained on 10 mill books : trillions of tokens
-- Creates a statistical model based on probability
+- LLM are of two types
+  - Generative: Creates a statistical model based on probability and determines the next most likely word
+  - Classification: determine most likely classification or answer
 - can generate songs, fill in the blanks, complete sentences, classify reviews as good | bad
 - describe pics, add captions to text
 - can reduce dev cost and reduce monotonous tasks
