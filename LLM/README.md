@@ -44,6 +44,7 @@
 - vector DB
 - temperature
 - prompt
+- https://txt.cohere.com/llm-parameters-best-outputs-language-ai/
 
 
 ## Uses of NLP
