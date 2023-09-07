@@ -42,8 +42,13 @@
   - https://towardsdatascience.com/llm-hallucinations-ec831dcd7786
 - agent
 - vector DB
-- temperature
+- params
+  - temperature : hyperparameter that controls the randomness of language model output. A high temp produces more unpredictable and creative results, while a low temp produces more deterministic and conservative output.
+  - top_p : also known as nucleus sampling, is another hyperparameter that controls the randomness of language model output. ( higher top_p means lower randomness )
+  - top_k 
+  - token length : : number of words or characters in a sequence or text that is fed to the LLM.
 - prompt
+- context
 - https://txt.cohere.com/llm-parameters-best-outputs-language-ai/
 
 
